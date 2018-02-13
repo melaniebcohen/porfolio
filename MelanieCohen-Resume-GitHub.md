@@ -17,8 +17,7 @@
 * Developed ongoing sales effectiveness reports and dashboards on Business Development and Sales Programs team activities and reported on trends (pipeline growth, win ratio, etc.) in order to identify opportunities for optimizing results
 * Partnered with Corporate Marketing and Marketing Automation teams to create and execute outbound Business Development Representative email and phone campaigns
 
-**_Client Services Manager_**, November 2014 - May 2015  
-**_Client Operations Coordinator_**, March 2014 - October 2014  
+**_Client Services Manager_**, March 2014 - May 2015  
 *	Investigated and responded to client inquiries, complaints, and ad hoc requests regarding service delivery
 *	Worked closely with other departments internally to facilitate outstanding service delivery for Carena's clients
 
