@@ -14,7 +14,7 @@
 * Future Enhancements:
   * Integrate original image features (background image slider and randomizer) into new responsive design
   
-#### [RoverView](https://rover-fe-staging.herokuapp.com/)  
+#### [RoverView](https://rover-view.herokuapp.com/)  
 **View photos from the two active Mars rovers: Curiosity and Opportunity. User can select specific dates and available cameras from the selected date will be populated. Create an account, log in, and save your favorite images to show your friends! Currently only available as a mobile application.**
 * Code Fellows 301 Final Project
   * [Front-end repository](https://github.com/roverview/rover-fe)
@@ -31,16 +31,17 @@
   * Responsive styling (adding desktop and tablet views)
   * Add 'Update' functionality in order to make RoverView a full CRUD app
 
-#### [Job Seeker (back-end)](https://jobseeker-be.herokuapp.com/)
+#### [Job Seeker (back-end)](http://www.job-seeker.net/)
 #### A personal database through which job seekers can track potential career opportunities, including associated companies, job postings, events, and contact information.
-* Code Fellows 401 Midterm Project
+* Code Fellows 401 Midterm & Final Project
+  * [Front-end repository](https://github.com/job-seeker/job-seeker-frontend)
   * [Back-end repository](https://github.com/job-seeker/job-seeker-backend)
 * Technologies Used:
   * [Node.js](https://nodejs.org)
+  * [React](https://reactjs.org/)
+  * [Material UI](http://www.material-ui.com/)
   * [Express](https://expressjs.com)
   * [MongoDB](https://www.mongodb.com) & [Mongoose](http://mongoosejs.com/)
   * [TravisCI](https://travis-ci.org/)
   * [Coveralls](https://coveralls.io)
   * [Heroku](http://www.heroku.com/)
-* Future Enhancements:
-  * Front-end repository to be completed in April 2018
