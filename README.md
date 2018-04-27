@@ -45,3 +45,6 @@
   * [TravisCI](https://travis-ci.org/)
   * [Coveralls](https://coveralls.io)
   * [Heroku](http://www.heroku.com/)
+* Future Enhancements:
+  * Add 'Update' functionality for full CRUD on all models
+  * Redirect fixes
