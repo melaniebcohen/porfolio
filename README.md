@@ -31,7 +31,7 @@
   * Responsive styling (adding desktop and tablet views)
   * Add 'Update' functionality in order to make RoverView a full CRUD app
 
-#### [Job Seeker (back-end)](http://www.job-seeker.net/)
+#### [Job Seeker](http://www.job-seeker.net/)
 #### A personal database through which job seekers can track potential career opportunities, including associated companies, job postings, events, and contact information.
 * Code Fellows 401 Midterm & Final Project
   * [Front-end repository](https://github.com/job-seeker/job-seeker-frontend)
